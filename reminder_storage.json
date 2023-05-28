@@ -1,0 +1,26 @@
+[
+    {
+        "Name of reminder": "new",
+        "Text of reminder": "text",
+        "priority": 1,
+        "Time": "2023-05-13 17:22:54"
+    },
+    {
+        "Name of reminder": "new",
+        "Text of reminder": "test",
+        "priority": 3,
+        "Time": "2023-05-20 20:41:44"
+    },
+    {
+        "Name of reminder": "novi1",
+        "Text of reminder": "novi1",
+        "priority": 2,
+        "Time": "2023-05-26 23:25:33"
+    },
+    {
+        "Name of reminder": "novi1-2",
+        "Text of reminder": "novi2",
+        "priority": 4,
+        "Time": "2023-05-26 23:25:33"
+    }
+]
